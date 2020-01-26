@@ -1,0 +1,16 @@
+{
+  "name": "RandomLunch",
+  "displayName": "RandomLunch",
+  "lunch": [
+    {
+    "id": 1,
+    "name": "Palatus"
+    }, {
+    "id": 2,
+    "name": "Dominos"
+    }, {
+    "id": 3,
+    "name": "The Chefs"
+    }
+  ]  
+}
